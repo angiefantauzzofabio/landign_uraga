@@ -317,6 +317,9 @@ header{
   .content button{
     width: 50%;
   }
+  .content a{
+    width: 50%;
+  }
   
 }
 @media(max-width: 562px){
